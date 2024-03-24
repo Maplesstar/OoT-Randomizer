@@ -1,0 +1,14 @@
+{
+  "file_hash":                 ["Lens of Truth", "Lens of Truth", "Lens of Truth", "Lens of Truth", "Lens of Truth"],
+  "settings":                  {
+    "show_seed_info":                          true,
+    "user_message":                            "",
+    "world_count":                             1,
+    "create_spoiler":                          true,
+    "shuffle_kokiri_sword":                    true
+  },
+  "locations":                 {
+    "KF Kokiri Sword Chest":                                                "Lens of Truth",
+    "KF Midos Top Left Chest":                                              "Lens of Truth"
+  }
+}

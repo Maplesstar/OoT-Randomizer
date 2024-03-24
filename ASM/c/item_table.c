@@ -327,6 +327,8 @@ item_row_t item_table[] = {
     [0x0116] = ITEM_ROW(0x53,      SILVER_CHEST, 0x41, -1, 0x00A0, 0x01A0, 0x87, no_upgrade, give_small_key, FORT_ID,   -1, resolve_text_small_keys), // Thieves' Hideout Small Key
     [0x0117] = ITEM_ROW(0x53,      SILVER_CHEST, 0x41, -1, 0x00A1, 0x01A1, 0x88, no_upgrade, give_small_key, CASTLE_ID, -1, resolve_text_small_keys), // Ganon's Castle Small Key
     [0x0118] = ITEM_ROW(0x53,      SILVER_CHEST, 0x41, -1, 0x00F3, 0x01A2, 0x89, no_upgrade, give_small_key, TCG_ID,    -1, resolve_text_small_keys_cmg), // Small Key (Chest Game)
+
+    [0x0119] = ITEM_ROW(0x53,      GILDED_CHEST, 0x0F, -1, 0x0039, 0x01AB, 0x95, no_upgrade, no_effect, -1, -1, NULL), // Generic Cube
 };
 
 /*  Determine which message to display based on the number of silver rupees collected.
