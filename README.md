@@ -1,3 +1,8 @@
+# Gender Reveal: Girl
+
+Replaces the Lens of Truth with a reveal that the child will be a girl. Apply the plando saved in tests/plando/GenderRevealPlando.json.
+Check the plando before using it so you know what it does. Currently it places Lens in the Kokiri Sword chest as part of it.
+
 # OoTRandomizer
 
 This is a randomizer for _The Legend of Zelda: Ocarina of Time_ for the Nintendo 64.
